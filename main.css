@@ -27,7 +27,7 @@ body{
 	display:inline;
 	float:left;
 	margin:0.6em 0 0 1em;
-	width:65px;
+	width:80px;
 	height:auto;
 	opacity:0.45;
 }
@@ -68,32 +68,6 @@ nav ul li a{
 	text-align:center;
 	letter-spacing:4px;
 	margin:0;
-}
-.section1{
-	display:block;
-	height:600px;
-	background:#efefef;
-	text-align:center;
-	list-style-type:none;
-}
-.topbuy{
-	display:inline-block;
-	background-color:white;
-}
-.freebuy{
-	background:white;
-	border:2px solid black;
-	font-family:OpenSansBold;
-}
-.standardbuy{
-	background:white;
-	border:2px solid black;
-	font-family:OpenSansBold;
-}
-.probuy{
-	background:white;
-	border:2px solid black;
-	font-family:OpenSansBold;
 }
 .section2{
 	background:url(city-crossing-crossroad-road.jpg) center;

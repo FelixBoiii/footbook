@@ -18,7 +18,7 @@ body{
 	text-transform:uppercase;
 }
 .header{
-	height:800px;
+	height:1000px;
 	background:url("main-page.JPG") center center;
 	background-size:cover;
 	background-attachment:fixed;

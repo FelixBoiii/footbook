@@ -18,7 +18,7 @@ body{
 	text-transform:uppercase;
 }
 .header{
-	height:1000px;
+	height:800px;
 	background:url("main-page.JPG") center center;
 	background-size:cover;
 	background-attachment:fixed;
@@ -54,7 +54,7 @@ nav ul li a{
 .headboi{
 	font-family:walking;
 	text-align:center;
-	font-size:150px;
+	font-size:200px;
 	color:rgba(0,0,0,0.5);
 	clear:both;
 	padding-top:0.9em;
